@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "gamex247"
+    }
+  },
+  "defaultProject": "gamex247",
+  "cli": {
+    "analytics": "0f3146ff-85bb-4c14-994b-070d39172944"
+  }
 }
