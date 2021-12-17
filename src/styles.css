@@ -1,1 +1,39 @@
 /* You can add global styles to this file, and also import other style files */
+* {
+    box-sizing: border-box;
+  }
+  
+  /* Create three equal columns that floats next to each other */
+  .left-nav {
+    float: left;
+    width: 17.33%;
+    padding: 10px;
+    height: 300px; /* Should be removed. Only for demonstration */
+    margin-right: 8px;
+
+  }
+  .mid-nav {
+    float: left;
+    width: 52.33%;
+    padding: 10px;
+    height: 300px; /* Should be removed. Only for demonstration */
+  }
+  .right-nav {
+    float: left;
+    width: 27.33%;
+    padding: 10px;
+    height: 300px; /* Should be removed. Only for demonstration */
+    margin-left: 20px;
+  }
+  
+  /* Clear floats after the columns */
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+  @media (min-width: 1400px){
+.container, .container-lg, .container-md, .container-sm, .container-xl, .container-xxl {
+    max-width: 1450px;
+}
+  }

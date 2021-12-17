@@ -1,0 +1,41 @@
+<div class="header">
+  <a href="#default" class="logo">CompanyLogo</a>
+
+  <div id="searchWrap" class="search-wrap">
+    <div><input id="searchInput" class="search-input" type="text" placeholder="Search Events"><button id="searchClear"
+        class="search-clear" style="display: none;"></button></div>
+    <div id="searchResult" class="suggestion-wrap" style="display: none;">
+      <ul id="searchList" style="display: none;">
+        <li id="noMatching" style="display: none;">
+          <p class="no-matching">No events found matching ...</p>
+        </li>
+        <li id="resultTemplate" style="display: none;"><a>.</a></li>
+        <!-- <li id="result_{{match.matchId}}">.</li> -->
+      </ul>
+    </div>
+  </div>
+  <div class="login-container">
+    <form action="/action_page.php">
+      <input type="text" placeholder="Username" name="username">
+      <input type="text" placeholder="Password" name="psw">
+      <button type="submit">Login</button>
+    </form>
+  </div>
+
+</div>
+
+<div class="fullnav">
+  <ul>
+    <li><a class="active" href="#home">Home</a></li>
+    <li><a href="#news">In-play</a></li>
+    <li><a href="#contact">Muti Market</a></li>
+    <li><a href="#about">Cricket</a></li>
+    <li><a href="#about">Soccer</a></li>
+    <li><a href="#about">Tennis</a></li>
+    <ul class="setting-wrap">
+      <li class="time_zone"><a href="#about"><span>Time Zone :</span>GMT+5:30</a></li>
+      <li><a href="#about">One Click Bet</a></li>
+      <li><a href="#about">Setting</a></li>
+    </ul>
+  </ul>
+</div>
