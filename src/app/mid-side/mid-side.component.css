@@ -1,0 +1,73 @@
+.full-wrap .col-center {
+    height: 100%;
+    overflow: hidden;
+}
+.col-center {
+    position: relative;
+    margin-left: 17.36111%;
+    margin-right: 26.04167%;
+    padding: 0 5px;
+    top: -199px;
+}
+.clearfix, .over-wrap, .pop-warp, .log-wrap, .streaming-pop, .col-center, .slip-back .col-stake_list ul, .slip-lay .col-stake_list ul, .login-wrap, .account-wrap, .menu, .setting-wrap, .slip-head, .matched-head, .stake-popup, .btn-wrap, .slip-option, .cashout-wrap, .slider, .tab-highlight, .tab-markets, .game-wrap-horse .hs-time, .game-scores .scores-time, .game-scores ul, .tab-HS, .game-info, .tab, .input-list, .filter-list, .filter-pop ul, .acc-info, .total-show, .change_pass, .game-wrap, .game-highlight-wrap, .game-wrap-horse, .slip-back, .slip-lay, .power-wrap, .menu-wrap, .stake-set, .odds-set, .slip-list, .full_btn, .sum, .upcome, .game-list-col, .game-list-col dd, .game-head, .head-bets-agent, .line_market-name, .one_click-setting, .quick_bet-wrap, .quick_bet-wrap .col-stake_list, .game-fancy.in-play, .fancy-head, .fancy-head h4, .fancy-head .tc-content h5, .tc-content .fancy-head h5, .sportsbook-head, .sportsbook-head h4, .sportsbook-head .tc-content h5, .tc-content .sportsbook-head h5, .form_list dd, .white-wrap, .pop-left dl, .pop-left dd, .initial-balance, .final-balance {
+    zoom: 1;
+}
+.displayF, .promo-banner .promo-control-nav, .tag-liveDesktop, .tag-liveDesktop strong, .tv-control a, .bets .special_bet .fancy-info, .bets-HS .special_bet .fancy-info, .bets-GH .special_bet .fancy-info, .back-gradient dd, .lay-gradient dd, .age_box li .secondary, .age_box li .btn-send, .on_live .live_icon, .on_live .live_icon span, .on_live dd, .power-wrap, .licence_embed, .live-head, .change-channel, .marquee-box, .marquee-box h4, .marquee-box .tc-content h5, .tc-content .marquee-box h5, .marquee-box .marquee a, .game-E i, .match-btn, .match-btn a, .game-head .open-tv-wrap, .tv-control, .horse-info, .dog-info, .horse-info>dt, .dog-info>dt, .horse-info>dd, .dog-info>dd, .multi_h3, .game-wrap h3 .multi_name, .quick-bet-confirm, .gametab-head, .gametab-head h4, .gametab-head .tc-content h5, .tc-content .gametab-head h5, .btn_rules, .fancy-th-layout, .fancy-th-layout dt, .fancy-th-layout dd, .other-tab, .back-gradient, .lay-gradient, .back-gradient dd a, .lay-gradient dd a, .download-list, .download-list dt, .download-list dt a, .download-list dd, .download-list dd a, .special_bets-tab-wrap, .special_bets-tab, .special_bets-tab .more_drop>a, .marquee-pop, .marquee-pop .nofound, .marquee-pop .nofound .nofound_box, .marquee-pop .pages{
+    display:flex;
+    
+}
+.marquee-box {
+    color: #fff;
+    line-height: 25px;
+    height: 25px;
+    margin-bottom: 1px;
+    background-repeat: repeat-x;
+    background-image: linear-gradient(
+180deg, #2A3A43 27%, #1C282D 83%);
+}
+.marquee-box h4, .marquee-box .tc-content h5, .tc-content .marquee-box h5 {
+    position: relative;
+    flex-basis: 72px;
+    justify-content: center;
+    align-items: center;
+}
+.marquee-box h4:before {
+    background-image: url(src/assets/images/main-s1aea395e8c.png);
+    background-repeat: no-repeat;
+}
+.marquee-box h4:before {
+    display: block;
+}
+.marquee-box h4:before, .marquee-box .tc-content h5:before, .tc-content .marquee-box h5:before {
+    content: '';
+    height: 17px;
+    width: 17px;
+    margin-right: 2px;
+    background-position: 100% -2560px;
+}
+.marquee-box h4::after {
+    background-image: url(src/assets/images/main-s1aea395e8c.png);
+    background-repeat: no-repeat;
+}
+.marquee-box h4:after, .marquee-box .tc-content h5:after, .tc-content .marquee-box h5:after {
+    content: '';
+    position: absolute;
+    right: -7px;
+    top: 0;
+    z-index: 2;
+    width: 7px;
+    height: 25px;
+    background-position: 100% -3365px;
+}
+
+.marquee-box .marquee {
+    flex: 1;
+    overflow: hidden;
+    position: relative;
+    z-index: 1;
+}
+.js-marquee-wrapper {
+    width: 100000px;
+    transform: translateX(662px);
+    animation: 30.695s linear 0s infinite normal none running marqueeAnimation-6864042;
+} 
