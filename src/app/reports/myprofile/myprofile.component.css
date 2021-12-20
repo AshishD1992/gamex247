@@ -1,0 +1,179 @@
+.col-center.report {
+    padding-right: 0;
+    margin-right: 0;
+}
+
+.col-center {
+    position: relative;
+    margin-left: 17.36111%;
+    margin-right: 26.04167%;
+    padding: 0 5px;
+    top: -59px;
+}
+.clearfix, .over-wrap, .pop-warp, .log-wrap, .streaming-pop, .col-center, .slip-back .col-stake_list ul, .slip-lay .col-stake_list ul, .login-wrap, .account-wrap, .menu, .setting-wrap, .slip-head, .matched-head, .stake-popup, .btn-wrap, .slip-option, .cashout-wrap, .slider, .tab-highlight, .tab-markets, .game-wrap-horse .hs-time, .game-scores .scores-time, .game-scores ul, .tab-HS, .game-info, .tab, .input-list, .filter-list, .filter-pop ul, .acc-info, .total-show, .change_pass, .game-wrap, .game-highlight-wrap, .game-wrap-horse, .slip-back, .slip-lay, .power-wrap, .menu-wrap, .stake-set, .odds-set, .slip-list, .full_btn, .sum, .upcome, .game-list-col, .game-list-col dd, .game-head, .head-bets-agent, .line_market-name, .one_click-setting, .quick_bet-wrap, .quick_bet-wrap .col-stake_list, .game-fancy.in-play, .fancy-head, .fancy-head h4, .fancy-head .tc-content h5, .tc-content .fancy-head h5, .sportsbook-head, .sportsbook-head h4, .sportsbook-head .tc-content h5, .tc-content .sportsbook-head h5, .form_list dd, .white-wrap, .pop-left dl, .pop-left dd, .initial-balance, .final-balance {
+    zoom: 1;
+}
+.loading-wrap {
+    display: inherit;
+    top: 20%;
+    height: 90px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 5px 10px rgb(0 0 0 / 50%);
+    padding-top: 25px;
+    z-index: 50;
+    position: absolute;
+    left: 50%;
+    width: 190px;
+    margin-left: -95px;
+}
+.loading {
+    padding: 5% 0;
+}
+.loading li {
+    list-style: none;
+    font-size: 11px;
+    color: #243a48;
+   
+}
+.align-C, .loading li, .btn, .btn-send, .pages a, .calendarTable_inputBox input, .calendarTable_inputBox textarea, .change_pass, .slip-back dd, .slip-lay dd, .btn-live, .btn-book, .fancy-suspend span, .fancy-suspend-white span, .browser-wrap, .saddle_1, .saddle_1A, .saddle_1B, .saddle_1C, .saddle_1D, .saddle_1X, .saddle_1Y, .saddle_2, .saddle_2B, .saddle_2C, .saddle_2X, .saddle_3, .saddle_3C, .saddle_3D, .saddle_3E, .saddle_3X, .saddle_4, .saddle_4D, .saddle_4X, .saddle_5, .saddle_6, .saddle_7, .saddle_8, .saddle_9, .saddle_10, .saddle_11, .saddle_11F, .saddle_12, .saddle_12F, .saddle_13, .saddle_13F, .saddle_14, .saddle_14F, .saddle_15, .saddle_15F, .saddle_16, .saddle_16F, .saddle_17, .saddle_17F, .saddle_18, .saddle_18F, .saddle_19, .saddle_19F, .saddle_20, .saddle_20F, .saddle_21, .saddle_21F, .saddle_22, .saddle_22F, .saddle_23, .saddle_23F, .saddle_24, .saddle_24F, .saddle_25, .saddle_25F, .saddle_26, .saddle_26F, .saddle_27, .saddle_27F, .saddle_28, .saddle_28F, .saddle_29, .saddle_29F, .saddle_30, .saddle_30F, .login-wrap .btn-login, .gamex247 .login-wrap .btn-signup, .account-wrap ul .logout a, .stake-set .stake_edit-input, .odds-set .stake_edit-input, .col-edit a, .slip-wrap p, .slip-head li, .matched-head li, .stake-popup a, .load-pending, .tab-highlight li, .tab-markets li, .message-wrap p, .dialog-wrap h4, .dialog-wrap-w h4, .dialog-wrap .tc-content h5, .tc-content .dialog-wrap h5, .dialog-wrap-w .tc-content h5, .tc-content .dialog-wrap-w h5, .dialog-wrap .break li, .dialog-wrap-w .break li, .support-wrap, .game-list-col dd a, .game-team .game-vs, .game-scores .game-vs, .game-scores ul .scores-box, .tennis .scores-box, .sum-status, .tab-HS a, .bets td, .bets-HS td, .bets-GH td, .horse-box li, .suspend, .btn-rules, .rules-wrap h3, .closed-next, .one_click-setting a, .one_click-stake, .one_click-stake input, .one_click-stake textarea, .quick_bet-progress .progress-bar-txt, .quick_bet-message dd, .fancy-info dt span, .confirm_box .white-wrap, .go-back, .pop-close, .tab a, .pages, .chart-wrap, .initial-balance dt span, .final-balance dt span, .announce-footer, .announce-content table, .article-date, .news-wrap h2 {
+    text-align: center;
+}
+.loading img {
+    background-position: -42px -365px;
+    height: 22px;
+    width: 38px;
+}
+.message-wrap:not(:target) {
+    display: none;
+}
+.col-center .message-wrap {
+    margin-left: -15px;
+}
+.success {
+    background-color: #6bbd11;
+}
+.message-wrap {
+    display: none;
+    position: absolute;
+    top: 0;
+    width: 100%;
+    padding: 8px 0;
+    background-color: #f8e71c;
+    font-size: 14px;
+    color: #1e1e1e;
+    z-index: 99;
+}
+.message-wrap .btn-close {
+    margin: 6px 10px 0 0;
+}
+.delete, .btn-close, .maintain-footer h1, .mazaplay .maintain-footer h1, .kingfair24 .maintain-footer h1, .alphaexch .maintain-footer h1, .alphaexchlive .maintain-footer h1, .gamex247 .maintain-footer h1, .goexchange .maintain-footer h1, .agexch247 .maintain-footer h1, .iceEX .maintain-footer h1, .o_12bet .maintain-footer h1, .o_dafabet .maintain-footer h1, .skyinplay .maintain-footer h1, .probetx .maintain-footer h1, .probet247 .maintain-footer h1, .bigexch .maintain-footer h1, .sixball .maintain-footer h1, .sixballio .maintain-footer h1, .sgexch247 .maintain-footer h1, .baji .maintain-footer h1, .baji365 .maintain-footer h1, .masterexchange .maintain-footer h1, .matador .maintain-footer h1, .iceinplay .maintain-footer h1, .maruti .maintain-footer h1, .marutibook .maintain-footer h1, .gamex247247 .maintain-footer h1, .cftbet365 .maintain-footer h1, .crickzoom .maintain-footer h1, .crickzoomlive .maintain-footer h1, .wickets247 .maintain-footer h1, .crickex .maintain-footer h1 {
+    font-size: 0;
+    text-indent: -99999px;
+}
+.btn-close {
+    background-position: -404px -1029px;
+    height: 10px!important;
+    width: 10px;
+}
+.float-R, .pop-warp.no-match_odds .pop-left .select-betting .selection, .no-match_odds.log-wrap .pop-left .select-betting .selection, .no-match_odds.streaming-pop .pop-left .select-betting .selection, .btn-close, .game-list-col .game-fancy, .game-list-col .game-sportsbook, .game-list-col .game-bookmaker, .game-list-col .game-live, .login-wrap, .account-wrap, .language, .setting-wrap, .time_zone, .gmt, .menu-list .Go, .favor-set, .sum, .btn-wrap .btn-send, .btn-wrap .edit-function .btn, .btn-wrap .edit-function .btn-send, .btn-wrap .edit-function .pages a, .pages .btn-wrap .edit-function a, .btn-wrap .edit-function .calendarTable_inputBox input, .calendarTable_inputBox .btn-wrap .edit-function input, .btn-wrap .edit-function .calendarTable_inputBox textarea, .calendarTable_inputBox .btn-wrap .edit-function textarea, .cashout-wrap dl, .event-right, .live-head h3 span, .game-matched, .open-tv-wrap, .head-bets-agent .game-info, .more, .one_click-setting .a-edit, .one_click-setting .btn-send, .quick_bet-wrap dt .bet-check, .quick_bet-wrap .max-bet, .quick_bet-wrap .col-stake_list ul, .game-head .ico_rules, .fancy-info, .total-show .sports-switch, .result-search select {
+    float: right;
+}
+.main-sprite, .btn-close, .icon-time, .icon-live, .icon-irun, .icon-predict, .icon-cashout, .icon-in_play, .icon-no_play, .icon-cricket, .icon-type_soccer, .icon-tennis, .icon-basketball, .icon-dog, .icon-HR, .icon-racing, .game-wrap .to-expand, .game-highlight-wrap .to-expand, .game-wrap-horse .to-expand, .close.game-wrap .to-expand, .close.game-highlight-wrap .to-expand, .close.game-wrap-horse .to-expand, .o_spondemo .game-wrap .to-expand, .o_spondemo .game-highlight-wrap .to-expand, .o_spondemo .game-wrap-horse .to-expand, .o_spondemo .close.game-wrap .to-expand, .o_spondemo .close.game-highlight-wrap .to-expand, .o_spondemo .close.game-wrap-horse .to-expand, .favor, .favor.select, .marquee-wrap:before, .upcome-head dt, .tab-highlight a, .tab-markets a, .tab-highlight a.select, .tab-markets a.select, .login_to_go .close, .support-mail img, .support-app img, .support-telegram img, .live-list a:after, .icon-TV_head, .game-list-col:hover .to-win, .game-list-col:hover .to-lose, .game-list-col dd .info, .game-list-col .col-visit, .game-list-col .col-home, .game-list-col .col-draw, .game-head .favor, .game-head .favor.select, .game-head .refresh, .game-team .game-visit span, .game-scores .game-visit span, .game-team .game-home span, .game-scores .game-home span, .game-scores ul .scores-box, .its_turn, .icon-card-yellow, .icon-card-red, .icon-soccer, .score-pop:before, .score-pop-last:before, .scores-event img, .scores-line img, .tab-HS .more_drop, .tab-HS .more_drop.select, .for-agent .fancy-head h4:after, .for-agent .fancy-head .tc-content h5:after, .tc-content .for-agent .fancy-head h5:after, .bets tr:hover .to-win, .bets-HS tr:hover .to-win, .bets-GH tr:hover .to-win, .bets tr:hover .to-lose, .bets-HS tr:hover .to-lose, .bets-GH tr:hover .to-lose, .bets .back-all, .bets-HS .back-all, .bets-GH .back-all, .bets .lay-all, .bets-HS .lay-all, .bets-GH .lay-all, .bets.disable .back-all, .disable.bets-HS .back-all, .disable.bets-GH .back-all, .bets.disable .lay-all, .disable.bets-HS .lay-all, .disable.bets-GH .lay-all, .uniform, .to-win, .to-lose, .more, .line_markets-team .game-visit span, .line_markets-team .game-home span, .line_markets-team .game-vs div:before, .line_markets-team .game-vs div:after, .btn-rules img, .line_market-name, .add-pin, .delete-pin, .col-info .add-pin, .col-info .delete-pin, h3 .add-pin, h3 .delete-pin, h4 .add-pin, .tc-content h5 .add-pin, h4 .delete-pin, .tc-content h5 .delete-pin, .arrow-dialog, .one_click-setting .a-edit img, .one_click-stake, .quick_bet-wrap .odd-add .up, .quick_bet-wrap .odd-add .down, .quick_bet-wrap .odd-add.disable .up, .quick_bet-wrap .odd-add.disable .down, .edit img, .game-fancy .info-inplay, .game-fancy.in-play:before, .fancy-head .in-play span:before, .btn-fancybet_rules, .sportsbook-head h4:after, .sportsbook-head .tc-content h5:after, .tc-content .sportsbook-head h5:after, .o_12bet .game-wrap .to-expand, .o_12bet .game-wrap.close .to-expand, .o_12bet .tab-highlight a, .o_12bet .tab-markets a, .o_12bet .tab-highlight a.select, .o_12bet .tab-markets a.select, .o_12bet .game-wrap-horse .to-expand, .o_12bet .game-wrap-horse.close .to-expand, .o_12bet .add-pin h3, .o_12bet .delete-pin h3, .o_12bet .one_click-stake, .o_dafabet .game-wrap .to-expand, .o_dafabet .game-wrap.close .to-expand, .o_dafabet .tab-highlight a, .o_dafabet .tab-markets a, .o_dafabet .tab-highlight a.select, .o_dafabet .tab-markets a.select, .o_dafabet .game-wrap-horse .to-expand, .o_dafabet .game-wrap-horse.close .to-expand, .o_dafabet .add-pin h3, .o_dafabet .delete-pin h3, .o_dafabet .one_click-stake, .mazaplay .one_click-setting .a-edit img, .mazaplay .one_click-stake, .mysports247 .one_click-setting .a-edit img, .mysports247 .one_click-stake, .gamex247 .login_to_go .close, .gamex247 .one_click-setting .a-edit img, .gamex247 .one_click-stake, .o_spondemo .tab-highlight, .o_spondemo .tab-markets, .o_spondemo .tab-highlight a, .o_spondemo .tab-markets a, .o_spondemo .tab-highlight a.select, .o_spondemo .tab-markets a.select, .o_spondemo .add-pin h3, .o_spondemo .delete-pin h3, .o_spondemo .one_click-stake, .skyinplay .one_click-setting .a-edit img, .skyinplay .one_click-stake, .bigexch .one_click-setting .a-edit img, .bigexch .one_click-stake, .masterexchange .login_to_go .close, .masterexchange .one_click-setting .a-edit img, .masterexchange .one_click-stake, .matador .one_click-setting .a-edit img, .matador .one_click-stake, .fairenter .one_click-setting .a-edit img, .fairenter .one_click-stake, .lucky7 .one_click-setting .a-edit img, .lucky7 .one_click-stake, .qexch .one_click-setting .a-edit img, .qexch .one_click-stake, .betmygame .one_click-setting .a-edit img, .betmygame .one_click-stake, .fancyfair .one_click-setting .a-edit img, .fancyfair .one_click-stake, .maruti .one_click-setting .a-edit img, .maruti .one_click-stake, .marutibook .one_click-setting .a-edit img, .marutibook .one_click-stake {
+    /* background-image: url(../images/sprite/main-se21de741bc.png);
+    background-repeat: no-repeat; */
+}
+.loading img {
+    background-position: -42px -365px;
+    height: 22px;
+    width: 38px;
+}
+.right-sprite, .loading img, .delete, .slip-wrap .to-expand, .matched-wrap .to-expand, .live-wrap .to-expand, .tv-wrap .to-expand, .close.slip-wrap .to-expand, .close.matched-wrap .to-expand, .close.live-wrap .to-expand, .close.tv-wrap .to-expand, .slip_set-pop .slip_set, .oneclick_set-pop .slip_set, .slip-wrap .slip_set, .odd-add .up, .odd-add .down, .odd-add.disable .up, .odd-add.disable .down, .slip_refresh, .live:before, .tv_popup, .icon-TV, .multi_refresh, .o_12bet .slip-wrap .to-expand, .o_12bet .slip-wrap.close .to-expand, .o_12bet .matched-wrap .to-expand, .o_12bet .matched-wrap.close .to-expand, .o_12bet .slip_refresh, .o_dafabet .slip-wrap .to-expand, .o_dafabet .slip-wrap.close .to-expand, .o_dafabet .matched-wrap .to-expand, .o_dafabet .matched-wrap.close .to-expand, .o_dafabet .slip_refresh, .o_spondemo .slip-wrap .to-expand, .o_spondemo .slip-wrap.close .to-expand, .o_spondemo .matched-wrap .to-expand, .o_spondemo .matched-wrap.close .to-expand, .o_spondemo .slip_refresh, .o_spondemo .multi_refresh {
+    background-image: url(src/assets/images/right-s96d53b4782.png);
+    background-repeat: no-repeat;
+}
+.message-wrap p {
+    line-height: 22px;
+    padding: 0 10px;
+    margin-bottom: 0;
+}
+.align-C, .loading li, .btn, .btn-send, .pages a, .calendarTable_inputBox input, .calendarTable_inputBox textarea, .change_pass, .slip-back dd, .slip-lay dd, .btn-live, .btn-book, .fancy-suspend span, .fancy-suspend-white span, .browser-wrap, .saddle_1, .saddle_1A, .saddle_1B, .saddle_1C, .saddle_1D, .saddle_1X, .saddle_1Y, .saddle_2, .saddle_2B, .saddle_2C, .saddle_2X, .saddle_3, .saddle_3C, .saddle_3D, .saddle_3E, .saddle_3X, .saddle_4, .saddle_4D, .saddle_4X, .saddle_5, .saddle_6, .saddle_7, .saddle_8, .saddle_9, .saddle_10, .saddle_11, .saddle_11F, .saddle_12, .saddle_12F, .saddle_13, .saddle_13F, .saddle_14, .saddle_14F, .saddle_15, .saddle_15F, .saddle_16, .saddle_16F, .saddle_17, .saddle_17F, .saddle_18, .saddle_18F, .saddle_19, .saddle_19F, .saddle_20, .saddle_20F, .saddle_21, .saddle_21F, .saddle_22, .saddle_22F, .saddle_23, .saddle_23F, .saddle_24, .saddle_24F, .saddle_25, .saddle_25F, .saddle_26, .saddle_26F, .saddle_27, .saddle_27F, .saddle_28, .saddle_28F, .saddle_29, .saddle_29F, .saddle_30, .saddle_30F, .login-wrap .btn-login, .gamex247 .login-wrap .btn-signup, .account-wrap ul .logout a, .stake-set .stake_edit-input, .odds-set .stake_edit-input, .col-edit a, .slip-wrap p, .slip-head li, .matched-head li, .stake-popup a, .load-pending, .tab-highlight li, .tab-markets li, .message-wrap p, .dialog-wrap h4, .dialog-wrap-w h4, .dialog-wrap .tc-content h5, .tc-content .dialog-wrap h5, .dialog-wrap-w .tc-content h5, .tc-content .dialog-wrap-w h5, .dialog-wrap .break li, .dialog-wrap-w .break li, .support-wrap, .game-list-col dd a, .game-team .game-vs, .game-scores .game-vs, .game-scores ul .scores-box, .tennis .scores-box, .sum-status, .tab-HS a, .bets td, .bets-HS td, .bets-GH td, .horse-box li, .suspend, .btn-rules, .rules-wrap h3, .closed-next, .one_click-setting a, .one_click-stake, .one_click-stake input, .one_click-stake textarea, .quick_bet-progress .progress-bar-txt, .quick_bet-message dd, .fancy-info dt span, .confirm_box .white-wrap, .go-back, .pop-close, .tab a, .pages, .chart-wrap, .initial-balance dt span, .final-balance dt span, .announce-footer, .announce-content table, .article-date, .news-wrap h2 {
+    text-align: center;
+}
+h2 {
+    font-size: 13px;
+    line-height: 20px;
+    padding-top: 6px;
+    margin-bottom: 6px;
+}
+.event-left, .event-right {
+    width: 49.5%;
+}
+.float-L, .delete, .login-panel, .change_pass .login-panel, .change_pass .note, .slip-wrap .slip_set, .slip_refresh, .tv_popup, .slip-back dt, .slip-lay dt, .slip-back dt .slip-type, .slip-lay dt .slip-type, .slip-back dd, .slip-lay dd, .power-wrap h3, .login-wrap .btn-login, .gamex247 .login-wrap .btn-signup, .kv, .header h1, .login-wrap input, .login-wrap textarea, .menu, .setting-wrap, .stake-set dd, .odds-set dd, .sum dt, .sum dd, .slider, .favor, .event-left, .event-right, .event-left .slip-head span, .event-right .slip-head span, .event-left .matched-head span, .event-right .matched-head span, .support-wrap dt, .live-left, .live-right, .live-channel span, .game-list-col dt, .game-list-col dd, .game-list-col dd a, .scores-event, .scores-line, .game-info, .head-bets-agent .game-low_liq, .head-bets-agent .game-fancy, .head-bets-agent .game-sportsbook, .bets .bet-all a, .bets-HS .bet-all a, .bets-GH .bet-all a, .horse-box, .uniform, .horse_info-hover dt, .horse_info-hover dd, .line_market-name span, h3 .add-pin, h3 .delete-pin, h4 .add-pin, .tc-content h5 .add-pin, h4 .delete-pin, .tc-content h5 .delete-pin, .one_click-setting h4, .one_click-setting .tc-content h5, .tc-content .one_click-setting h5, .quick_bet-wrap dt, .quick_bet-wrap dd, .game-fancy .info-inplay, .game-fancy.in-play:before, .fancy-head h4, .fancy-head .tc-content h5, .tc-content .fancy-head h5, .fancy-head .in-play span:before, .sportsbook-head h4, .sportsbook-head .tc-content h5, .tc-content .sportsbook-head h5, .profile-wrap dt, .form_list dt, .filter-pop .btn-wrap .btn, .filter-pop .btn-wrap .btn-send, .filter-pop .btn-wrap .pages a, .pages .filter-pop .btn-wrap a, .filter-pop .btn-wrap .calendarTable_inputBox input, .calendarTable_inputBox .filter-pop .btn-wrap input, .filter-pop .btn-wrap .calendarTable_inputBox textarea, .calendarTable_inputBox .filter-pop .btn-wrap textarea, .market-float, .sum-pl dt, .head-balance, .pop-left, .pop-left dt, .select-betting .selection, .pop-right, .initial-balance dt, .final-balance dt, .initial-balance dd, .final-balance dd, .initial-balance dt span, .final-balance dt span, .search-wrap {
+    float: left;
+}
+.profile-wrap {
+    background-color: #fff;
+    border-bottom: 1px solid #7e97a7;
+    margin-bottom: 15px;
+}
+.profile-wrap h3 {
+    background-color: #7e97a7;
+    color: #fff;
+    line-height: 24px;
+    padding: 0 10px;
+    font-size: 14px;
+}
+.profile-wrap dt {
+    width: 125px;
+    padding: 5px 0 5px 10px;
+    color: #243a48;
+}
+.event-left dt, .event-right dt {
+    font-size: 11px;
+}
+.profile-wrap dd {
+    position: relative;
+    min-height: 16px;
+    padding: 5px 0 5px 10px;
+    border-bottom: 1px solid #e0e6e6;
+}
+.profile-wrap .favor-set {
+    position: absolute;
+    right: 0;
+    top: 1px;
+}
+.displayB, .delete, .btn, .btn-send, .marquee-pop .pages a, .pages a, .calendarTable_inputBox input, .calendarTable_inputBox textarea, .slip-back .col-stake_list ul, .slip-lay .col-stake_list ul, .slip-book .col-stake_list ul, .login-wrap, .account-wrap, .menu, .setting-wrap, .slip-head, .matched-head, .stake-popup, .btn-wrap, .slip-option, .cashout-wrap, .slider, .tab-highlight, .tab-markets, .game-wrap-horse .hs-time, .game-scores .scores-time, .game-scores ul, .tab-HS, .game-info, .marquee-pop .input-list, .marquee-pop .filter-list, .tab, .input-list, .filter-list, .filter-pop ul, .acc-info, .total-show, .slip-back .col-stake_list ul li, .slip-lay .col-stake_list ul li, .slip-book .col-stake_list ul li, .login-wrap li, .account-wrap li, .menu li, .setting-wrap li, .slip-head li, .matched-head li, .stake-popup li, .btn-wrap li, .slip-option li, .cashout-wrap li, .slider li, .tab-highlight li, .tab-markets li, .game-wrap-horse .hs-time li, .game-scores .scores-time li, .game-scores ul li, .tab-HS li, .game-info li, .marquee-pop .input-list li, .marquee-pop .filter-list li, .tab li, .input-list li, .filter-list li, .filter-pop ul li, .acc-info li, .total-show li, .btn_rules:after, .tag-liveDesktop strong:before, .game-head .ico_rules:before, .age_box li .secondary:before, .age_box li .btn-send:before, .slip-wrap h3 a, .matched-wrap h3 a, .live-wrap h3 a, .tv-wrap h3 a, .game-wrap h3 a, .game-highlight-wrap h3 a, .game-wrap-horse h3 a, .favor-wrap h3 a, .sub_path h3 a, .slip-back dt:hover .full-amount, .slip-lay dt:hover .full-amount, .slip-book dt:hover .full-amount, .slip-back dd:hover .full-amount, .slip-lay dd:hover .full-amount, .slip-book dd:hover .full-amount, .slip-back .col-stake_list:target, .slip-lay .col-stake_list:target, .slip-book .col-stake_list:target, .btn-live, .btn-book, .account-wrap ul a, .more_drop-list a, .selection-list a, .multi-event_type, .game-fancy:after, .game-sportsbook:after, .game-bookmaker:after, .game-live:after, .in-play.game-fancy:before, .in-play.game-sportsbook:before, .in-play.game-bookmaker:before, .in-play.game-live:before, .fancy-head .in-play span:before, .sportsbook-head .in-play span:before, .bookmaker .in-play span:before, .fancy-suspend span, .fancy-suspend-white span, .power-wrap h3 img, .power-wrap-b img, .login-wrap .btn-login, .login-wrap .btn-signup, .header a, .account-wrap li .refresh-bar, .account-wrap a, .language, .flag, .menu-wrap a, .menu li:hover ul, .setting-wrap li:hover ul, .menu-list a, .menu-list .Go, .favor-set, .path .path-back, .path-pop a, .short-amount, .odd-add a, .stake-popup a, .slider-bar span, .slider-bar a, .live:before, .load-pending strong, .favor, .kv-wrap a, .promo-banner-wrap a, .tab-highlight a, .tab-markets a, .event-left .slip-head span, .event-right .slip-head span, .event-left .matched-head span, .event-right .matched-head span, .app-link, .live-list a, .live-list a:after, .change-channel::before, .marquee-box h4:before, .marquee-box .tc-content h5:before, .tc-content .marquee-box h5:before, .marquee-box h4:after, .marquee-box .tc-content h5:after, .tc-content .marquee-box h5:after, .marquee-box .marquee a span, .game-E i:before, .game-E i:after, .game-list-col dd a, .game-list-col dd a span, .game-list-col dd .info, .game-head a, .game-team .game-visit span, .game-scores .game-visit span, .game-team .game-home span, .game-scores .game-home span, .game-team .game-vs span, .game-scores .game-vs span, .game-scores ul .scores-box span, .game-progress:after, .sum-status, .score-pop:before, .score-pop-last:before, .tab-HS a, .tv-control a:before, .bets td a, .bets-HS td a, .bets-GH td a, .bets td span, .bets-HS td span, .bets-GH td span, .disabled .col-visit a:before, .disabled .col-home a:before, .disabled .col-draw a:before, .disabled.col-visit a:before, .disabled.col-home a:before, .disabled.col-draw a:before, .horse-info>dd:hover .horse_info-hover, .dog-info>dd:hover .horse_info-hover, .to-win:before, .to-lose:before, .more, .suspend span, .bets .suspend span, .bets-HS .suspend span, .bets-GH .suspend span, .line_markets-team .game-vs div:before, .line_markets-team .game-vs div:after, .rules-wrap:target, .line_market-name span, .quick_bet-wrap .btn span, .quick_bet-wrap .btn-send span, .quick_bet-wrap .pages a span, .pages .quick_bet-wrap a span, .quick_bet-wrap .calendarTable_inputBox input span, .calendarTable_inputBox .quick_bet-wrap input span, .quick_bet-wrap .calendarTable_inputBox textarea span, .calendarTable_inputBox .quick_bet-wrap textarea span, .gametab-head h4:after, .gametab-head .tc-content h5:after, .tc-content .gametab-head h5:after, .gametab-head h4:before, .gametab-head .tc-content h5:before, .tc-content .gametab-head h5:before, .other-tab:before, .other-tab:after, .fancy-info dt span, td .fancy-info dt, .special_bets-tab a, .special_bets-tab .more_drop>a:before, .announce-footer .confirm-checkbox, .close_pop, .error-text, .go-back, .pop-close, .tab a, .expand-close, .expand-open, .selection, .initial-balance dt span, .final-balance dt span, .gamehall-wrap-simple a:after, .on_live .live_icon span:before, .entrance-title dd:after {
+    display: block;
+}
+.favor-set {
+    line-height: 25px;
+    border-bottom-width: 0;
+    padding-right: 23px;
+    background-position: 100% -775px;
+}
+.float-R, .pop-warp.no-match_odds .pop-left .select-betting .selection, .no-match_odds.log-wrap .pop-left .select-betting .selection, .no-match_odds.streaming-pop .pop-left .select-betting .selection, .btn-close, .game-list-col .game-fancy, .game-list-col .game-sportsbook, .game-list-col .game-bookmaker, .game-list-col .game-live, .login-wrap, .account-wrap, .language, .setting-wrap, .time_zone, .gmt, .menu-list .Go, .favor-set, .sum, .btn-wrap .btn-send, .btn-wrap .edit-function .btn, .btn-wrap .edit-function .btn-send, .btn-wrap .edit-function .pages a, .pages .btn-wrap .edit-function a, .btn-wrap .edit-function .calendarTable_inputBox input, .calendarTable_inputBox .btn-wrap .edit-function input, .btn-wrap .edit-function .calendarTable_inputBox textarea, .calendarTable_inputBox .btn-wrap .edit-function textarea, .cashout-wrap dl, .event-right, .live-head h3 span, .game-matched, .open-tv-wrap, .head-bets-agent .game-info, .more, .one_click-setting .a-edit, .one_click-setting .btn-send, .quick_bet-wrap dt .bet-check, .quick_bet-wrap .max-bet, .quick_bet-wrap .col-stake_list ul, .game-head .ico_rules, .fancy-info, .total-show .sports-switch, .result-search select {
+    float: right;
+}
+.profile-wrap select {
+    min-width: 150px;
+    margin: 0;
+}
+select {
+    width: 120px;
+    height: 25px;
+    line-height: 25px;
+    cursor: pointer;
+    margin: 0 5px 5px 0;
+}
+option {
+    padding: 3px;
+}
+.profile-wrap dd:last-child {
+    border-bottom-width: 0;
+}
+.clearfix:after, .over-wrap:after, .pop-warp:after, .log-wrap:after, .col-center:after, .marquee-pop .input-list:after, .change_pass:after, .login-wrap:after, .maintain-wrap:after {
+    content: "";
+    display: block;
+    clear: both;
+}

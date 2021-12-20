@@ -12,6 +12,11 @@ const routes: Routes = [
 {path:'nav', component:NavbarComponent,},
 {path:'right', component:RightsideComponent,},
 {path:'mid', component:MidSideComponent,},
+{
+  path: 'reports',
+  loadChildren: () =>
+    import('./reports/reports.module').then((m) => m.ReportsModule),
+},
 ];
 
 @NgModule({
