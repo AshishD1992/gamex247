@@ -1,2 +1,62 @@
 <app-leftside></app-leftside>
+<div class="account-statement-container">
+    <div class="card">
+<div class="actions" fxLayout fxLayout.sm="column" fxLayout.lt-sm="column" fxLayoutGap="12px">
+    <div class="f-row">
+        <div class="start-date">
+            <label class="font-weight-bold">Start Date</label>
+            <div class="input-group input-group-sm">
+                <input type="text" bsDatepicker
+                    class="form-control"  id="from-date" placeholder="From date"
+                    autocomplete="off" bsDatepicker >
+                <div class="input-group-append">
+                    <span class="btn btn-default">
+                        <span class="glyphicon glyphicon-calendar"></span>
+                    </span>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="f-row">
+        <div class="end-date">
+            <label class="font-weight-bold">End Date</label>
+            <div class="input-group input-group-sm" >
+                <input type="text"  class="form-control"
+                    bsDatepicker  placeholder="To date"
+                    bsDatepicker >
+                <div class="input-group-append">
+                    <!-- <span class="input-group-text btn btn-calendar">
+                        <fa-icon [icon]="faCalendarAlt"></fa-icon>
+                    </span> -->
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="f-row">
+        <div class="button">
+            <!-- <div class="input-group input-group-sm">
+                <button class="btn btn-warning filter-button" id="btnFetch" (click)="AccountStatement()" [disabled]="loader">{{loader?'loading...':'Load Report'}}</button>
+            </div> -->
+        </div>
+    </div>
+</div>
 
+<div class="note">
+    <span class="notice"> Note : Date will be based on time zone IST</span>
+    <!-- <div class="export">
+        <button class="button" (click)="onBtnExport()">
+            <fa-icon [icon]="faFileCsv"></fa-icon>
+        </button>
+    </div> -->
+</div>
+<div>
+    <ag-grid-angular style="width:100%; height: 300px;" class="ag-theme-balham" [rowData]="rowData"
+        
+         [columnDefs]="columns"
+         [pagination]="true"
+         [paginationPageSize]="10"
+         >
+    </ag-grid-angular>
+</div>
+</div>
+</div>

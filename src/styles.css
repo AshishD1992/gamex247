@@ -1,4 +1,7 @@
 /* You can add global styles to this file, and also import other style files */
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap");
+@import "~ag-grid-community/dist/styles/ag-grid.css";  
+@import "~ag-grid-community/dist/styles/ag-theme-balham.css"; 
 * {
     box-sizing: border-box;
   }
@@ -37,3 +40,13 @@
     max-width: 1450px;
 }
   }
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
+.info {
+  float: right!important;
+  padding-top: 0px!important;
+  padding-bottom: 0px!important;
+  font-size: 15px!important;
+  line-height: 1.4!important;
+}
+

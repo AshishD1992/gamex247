@@ -1,0 +1,104 @@
+.account-statement-container {
+    padding: 16px 0;
+}
+.account-statement-container .card > div {
+    /* padding: 0 16px; */
+    padding: 0 16px;
+    width: 125%;
+}
+.account-statement-container .card {
+    padding: 16px 0;
+    margin: -77px 23px 3px 236px;
+    width: 66%;
+}
+.card {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+    background-color: #fff;
+    background-clip: border-box;
+    border: 1px solid rgba(0,0,0,.125);
+    border-radius: 0.25rem;
+    /* margin: -80px 2px 0px 231px; */
+    /* width: 75%; */
+}
+
+
+.account-statement-container .actions {
+    display: block;
+}
+.account-statement-container .actions .f-row {
+    flex: 0 0 20%;
+    display: inline-flex;
+    align-items: flex-end;
+}
+.account-statement-container .actions .f-row > div {
+    width: 100%;
+}
+.font-weight-bold {
+    font-weight: 700!important;
+}
+label {
+    display: inline-block;
+    margin-bottom: 0.5rem;
+}
+.input-group {
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: stretch;
+    
+}
+.input-group>.custom-select:not(:last-child), .input-group>.form-control:not(:last-child) {
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+}
+.input-group-sm>.custom-select, .input-group-sm>.form-control:not(textarea) {
+    height: calc(1.5em + 0.5rem + 2px);
+}
+.input-group-sm>.custom-select, .input-group-sm>.form-control, .input-group-sm>.input-group-append>.btn, .input-group-sm>.input-group-append>.input-group-text, .input-group-sm>.input-group-prepend>.btn, .input-group-sm>.input-group-prepend>.input-group-text {
+    padding: 0.25rem 0.5rem;
+    font-size: .875rem;
+    line-height: 1.5;
+    border-radius: 0.2rem;
+}
+.input-group>.custom-file, .input-group>.custom-select, .input-group>.form-control, .input-group>.form-control-plaintext {
+    position: relative;
+    flex: 1 1 auto;
+    width: 1%;
+    min-width: 0;
+    margin-bottom: 0;
+}
+.form-control {
+    display: block;
+    width: 100%;
+    height: calc(1.5em + 0.75rem + 2px);
+    padding: 0.375rem 0.75rem;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #495057;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid #ced4da;
+    border-radius: 0.25rem;
+    transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+}
+button, input {
+    overflow: visible;
+}
+button, input, optgroup, select, textarea {
+    margin: 0;
+    font-family: inherit;
+    font-size: inherit;
+    line-height: inherit;
+}
+.input-group-append {
+    margin-left: -1px;
+}
+
+.input-group-append, .input-group-prepend {
+    display: flex;
+}

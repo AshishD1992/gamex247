@@ -12,7 +12,9 @@ import { MidSideComponent } from './mid-side/mid-side.component';
 // import { ReportsComponent } from './reports/reports.component';
 // import { MyprofileComponent } from './reports/myprofile/myprofile.component';
 // import{ReportsModule} from './reports/reports.module';
-
+// import { BsDatepickerModule,  BsDatepickerConfig } from 'ngx-bootstrap/datepicker';
+import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
+// import { AgGridModule } from 'ag-grid-angular';
 @NgModule({
   declarations: [
     AppComponent,
@@ -30,6 +32,9 @@ import { MidSideComponent } from './mid-side/mid-side.component';
   imports: [
     BrowserModule,
     AppRoutingModule,
+    // BsDatepickerModule.forRoot(),
+    BrowserAnimationsModule, 
+    // AgGridModule.withComponents(null),
     // ReportsModule
   ],
   providers: [],
